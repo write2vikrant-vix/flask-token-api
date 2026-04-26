@@ -1,4 +1,4 @@
-mport sqlite3
+import sqlite3
 import math
 from datetime import datetime
 from flask import Flask, jsonify, request, g, render_template_string
